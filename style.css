@@ -1,0 +1,10 @@
+body {
+  color: black;
+  font-family: sans-serif;
+}
+
+table {
+  background-color: lightblue;
+  float: right;
+  border: 2px solid blue;
+}
