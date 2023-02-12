@@ -33,6 +33,10 @@ p.quote {
 
 p.author {
   font-family: Helvetica, sans-serif;
+  position: relative;
+  left: 3em;
+  margin-bottom: 2em;
+  margin-top: 0.2em;
 }
 
 section:hover {
